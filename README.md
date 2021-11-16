@@ -23,3 +23,11 @@ Here is the schema and explanation of each variable in the files:
 -   reward (int) - reward given for completing an offer
 -   duration (int) - time for offer to be open, in days
 -   channels (list of strings)
+
+**profile.json**
+
+-   age (int) - age of the customer
+-   became_member_on (int) - date when customer created an app account
+-   gender (str) - gender of the customer (note some entries contain 'O' for other rather than M or F)
+-   id (str) - customer id
+-   income (float) - customer's income
