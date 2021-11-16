@@ -14,3 +14,11 @@ For this project, the data sets are provided by Starbucks and Udacity in the for
 -   transcript.json - records for transactions, offers received, offers viewed, and offers completed
 
 Here is the schema and explanation of each variable in the files:
+**portfolio.json**
+
+-   id (string) - offer id
+-   offer_type (string) - type of offer ie BOGO, discount, informational
+-   difficulty (int) - minimum required spend to complete an offer
+-   reward (int) - reward given for completing an offer
+-   duration (int) - time for offer to be open, in days
+-   channels (list of strings)
