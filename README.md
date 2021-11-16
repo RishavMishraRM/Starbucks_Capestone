@@ -14,6 +14,7 @@ For this project, the data sets are provided by Starbucks and Udacity in the for
 -   transcript.json - records for transactions, offers received, offers viewed, and offers completed
 
 Here is the schema and explanation of each variable in the files:
+
 **portfolio.json**
 
 -   id (string) - offer id
