@@ -12,3 +12,5 @@ For this project, the data sets are provided by Starbucks and Udacity in the for
 -   portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.)
 -   profile.json - demographic data for each customer
 -   transcript.json - records for transactions, offers received, offers viewed, and offers completed
+
+Here is the schema and explanation of each variable in the files:
