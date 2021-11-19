@@ -42,3 +42,9 @@ Here is the schema and explanation of each variable in the files  :-
 ## Files
 The following files attached to this GitHub's repository include the following:
 -   **[Starbucks_Capstone_notebook.ipynb](https://github.com/RishavMishraRM/Starbucks-Capstone/blob/master/Starbucks_Capstone_notebook.ipynb)**: This is the Jupyter Notebook in which all work is performed.
+
+
+
+## Acknowledgements
+Special thanks to Starbucks and Udacity for providing the data utilized in this project!
+
