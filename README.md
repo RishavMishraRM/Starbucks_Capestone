@@ -42,7 +42,7 @@ Here is the schema and explanation of each variable in the files  :-
 ## Files
 The following files attached to this GitHub's repository include the following:
 -   **[Starbucks_Capstone_notebook.ipynb](https://github.com/RishavMishraRM/Starbucks_Capestone/blob/main/Starbucks_Capstone_notebook.ipynb)**: This is the Jupyter Notebook in which all work is performed.
--   **[Data](https://github.com/RishavMishraRM/Starbucks_Capestone/blob/main/Starbucks_Capstone_notebook.ipynb)**: This is the Jupyter Notebook in which all work is performed.
+-   **[Data](https://github.com/RishavMishraRM/Starbucks_Capestone/tree/main/data)**: This is the Jupyter Notebook in which all work is performed.
 
 
 ## Acknowledgements
